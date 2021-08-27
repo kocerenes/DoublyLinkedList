@@ -1,6 +1,7 @@
 # DoublyLinkedList
 
 ->ÖZET
+
   Sayilar.txt dosyasının içindeki veriyi ‘#’ karakterinden ayırarak 2 farklı sayıya ayırıp bu iki 
 sayıyı karşılaştırmam gerekmektedir. Detaya inmek gerekirse, C++ dili ile Doubly Linked List veri 
 yapısı oluşturup, ele aldığımız 2 farklı sayıyı 2 farklı listeye 3’er basamaklı olacak şekilde atıp 
@@ -12,6 +13,7 @@ sayıları her bir elemanı 3’er basamak olacak şekilde 2 diziye atıp bu diz
 Son olarak ise bu iki listeyi karşılaştırma işlemini yapıp sonucu ekrana yazdırmayı yaptım.
 
 ->PROJENİN YAPILMA AŞAMASINDA İZLEDİĞİM YOL
+
   Ben projeye öncelikle dosyayı okuyup içerisindeki iki sayıyı alıp döndüren bir File sınıfı
 oluşturmakla başladım. Bu işlemleri yaptıktan sonra ilk sayı ve ikinci sayı için gereken işlemleri
 yapmak için sınıfları yazdım. Aldığım sayıların boyutu her zaman sabit kalmayacağı için önce 3’er
